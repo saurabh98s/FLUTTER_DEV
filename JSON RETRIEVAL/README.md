@@ -5,4 +5,4 @@ From there things were really simple as you just have to encode the data to usab
 <br>
 i am attaching a screenshot of the app.
 <br>
-![screenshot of app]()
+![screenshot of app](https://github.com/saurabh98s/FLUTTER_DEV/blob/master/JSON%20RETRIEVAL/image1.jpeg)
